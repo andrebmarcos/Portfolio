@@ -1,0 +1,21 @@
+.section4 {
+    margin-top: 50px;
+    background-color: #2a2e30;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    align-items: center;
+    
+}
+
+.contatosinfo{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.contatos .divcontatos{
+    display: flex;
+    flex-direction: column;
+
+
+}

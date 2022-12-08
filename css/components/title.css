@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Press Start 2P', sans-serif;
+    color: #fff;
+    text-shadow: 3px 3px 0px #000
+}
+
+.title {
+    font-family: 'Press Start 2P', sans-serif;
+    color: #fff;
+    text-shadow: 3px 3px 0px #000
+}
+
+.skill{
+    display: flex;
+}
+
+.title-sec {
+    
+    text-align: center;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 25px;
+    color: #fff;
+    text-shadow: 3px 3px 0px #000;
+    margin-top: 1rem;  
+}
