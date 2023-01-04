@@ -131,8 +131,8 @@
             <img class="iconprojeto" src="assets/img/Gerador_de_Senhas.png" all="Projeto Jogo da Forca">
             <div class="right">
             <h1 id="subtitulo">Gerador de Senha </h1>
-			<a class="buttonDemo" id="button" href="https://andrebmarcos.github.io/Gerador_de_Senhas/" lang="en">DEMO</a>
-            <a class="buttonReposi" id="button" href="https://github.com/andrebmarcos/Gerador_de_Senhas" lang="en">Repositorio</a>
+            <a class="buttonDemo" id="button" href="https://andrebmarcos.github.io/jogo_forca/" lang="en">DEMO</a>
+            <a class="buttonReposi" id="button" href="https://github.com/andrebmarcos/jogo_forca" lang="en">Repositorio</a>
             </div>
         </dl>
 
@@ -140,8 +140,8 @@
             <img class="iconprojeto" src="assets/img/JOGO_FORCA.png" all="Projeto Jogo da Forca">
             <div class="right">
             <h1 id="subtitulo">Jogo da Forcar</h1>
-            <a class="buttonDemo" id="button" href="https://andrebmarcos.github.io/jogo_forca/" lang="en">DEMO</a>
-            <a class="buttonReposi" id="button" href="https://github.com/andrebmarcos/jogo_forca" lang="en">Repositorio</a>
+            <a class="buttonDemo" id="button" href="https://andrebmarcos.github.io/Gerador_de_Senhas/" lang="en">DEMO</a>
+            <a class="buttonReposi" id="button" href="https://github.com/andrebmarcos/Gerador_de_Senhas" lang="en">Repositorio</a>
             </div>
         </dl>
 
